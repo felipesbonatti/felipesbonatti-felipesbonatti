@@ -68,6 +68,6 @@ Sistema de otimização da distribuição de clientes para gerentes bancários, 
 ## 📫 Como Entrar em Contato
 
 - **LinkedIn**: [Felipe Bonatti Serejo de Lima](https://www.linkedin.com/in/felipebonatti/)
-- **Email**: felipe.bonatti@example.com
+- **Email**: felipe.bonatti@outlook.com
 - **GitHub**: [@felipesbonatti](https://github.com/felipesbonatti)
 
